@@ -7,3 +7,5 @@ here is some information about the project
 ## It will be build using Angular
 
 Adding this line was requested.
+
+Line added by me.
